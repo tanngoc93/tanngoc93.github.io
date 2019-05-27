@@ -1,16 +1,16 @@
 default:                                                      # Fallback if nothing is specified
   initial:      jdecent                                       # used for author lookup in posts and for first two characters in the about page back button
-  name:         "Ngoc Nguyen Tan"                               # used to display author name
+  name:         "Ngoc Nguyen Tan"                             # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
   picture:      /assets/johndoe.jpg                           # OPTIONAL: author picture
   bio:          This is my bio!                               # OPTIONAL: text below author name in posts
   location:     Vietnam                                       # OPTIONAL: used to display location of the author
-  website:      "https://tanngoc93.github.io/"                    						  # OPTIONAL: link to the author of a post
-  email:        "tanngoc93@gmail.com"                                              # OPTIONAL: used in the about page
-  twitter:      "-"                                           # OPTIONAL: used in the about page
-  linkedin:     "-"                                           # OPTIONAL: used in the about page
+  website:                          						              # OPTIONAL: link to the author of a post
+  email:                                                      # OPTIONAL: used in the about page
+  twitter:                                                    # OPTIONAL: used in the about page
+  linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:       "-"                                              # OPTIONAL: used in the about page
+  github:                                                     # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -30,12 +30,7 @@ jdecent:
   picture:      /assets/johndoe.jpg  
   bio:          This is my bio!
   location:     Vietnam
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Vietnam 
-  website:      "http://jwillmer.de/cv" 
-  twitter:      jenswillmer
-  github:       jwillmer
+  email:        "tanngoc93@gmail.com"   
+  facebook:     "-"    
+  linkedin:     "-"
+  github:       "-"
