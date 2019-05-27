@@ -7,10 +7,10 @@ default:                                                      # Fallback if noth
   location:     Vietnam                                       # OPTIONAL: used to display location of the author
   website:                          						              # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
+  github:                                                     # OPTIONAL: used in the about page
   twitter:                                                    # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
   xing:                                                       # OPTIONAL: used in the about page
-  github:                                                     # OPTIONAL: used in the about page
   stackoverflow:                                              # OPTIONAL: used in the about page
   facebook:                                                   # OPTIONAL: used in the about page
   gplus:                                                      # OPTIONAL: used in the about page
@@ -31,6 +31,6 @@ jdecent:
   bio:          This is my bio!
   location:     Vietnam
   email:        "tanngoc93@gmail.com"   
-  facebook:     "-"    
-  linkedin:     "-"
   github:       "-"
+  linkedin:     "-"
+  facebook:     "-"   
