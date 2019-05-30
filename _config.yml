@@ -12,14 +12,14 @@ description:
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "" # the subpath of your site, e.g. /blog
-url:              "https://tanngoc93.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
+url:              "https://tanngoc93.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
+disqus_shortname: "tanngoc93-github-io"
 cover:            /assets/mountain-cover.jpg
-disqus_shortname: ""
 
 # Build settings
 sass:
-    style: compressed
+  style: compressed
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
