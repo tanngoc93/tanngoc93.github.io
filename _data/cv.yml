@@ -50,7 +50,7 @@ ngocnt:
     projects:
         - time:             "From March 2019"
           team:             "Solo"
-          title:            "Web Project: Beta.TheDogPaws.com"
+          title:            "Individual Project: Beta.TheDogPaws.com"
           technologies:     "CircleCI, Ruby, Rails, Wordpress-REST-API, ReactJS, NextJS, Phusion Passenger, Nginx, Docker, Docker Compose"
           responsibilities:
             - "Database design"
@@ -63,7 +63,7 @@ ngocnt:
 
         - time:             "2 months in 2018"
           team:             "Solo"
-          title:            "Web Project: Coupon.TheDogPaws.com"
+          title:            "Individual Project: Coupon.TheDogPaws.com"
           technologies:     "CircleCI, Ruby, Rails, JavaScript, HTML5, CSS, Phusion Passenger, Nginx, Docker, Docker Compose"
           responsibilities:
             - "Database design"
