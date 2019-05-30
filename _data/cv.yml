@@ -37,9 +37,7 @@ ngocnt:
           responsibilities:
             - "Write functional, Rest-API, unit, and acceptance tests for application quality assurance"
             - "Complete database migrations with Ruby on Rails and ActiveRecord"
-            - "Use Agile/Scrum methodology, version control tool Git and code storage tools as Github or Gitlab. Apply CI/CD services to test, build, and deploy our projects"
-            - "Integrate payment gateway, and email functionality in applications by using Stripe/Paypal/Sendgrid"
-            - "Working with ReactJS/Redux, ShopifyAPIs, SocialAPIs, etc"
+            - "Integrate payment gateway, and email functionality in applications by using Stripe/Sendgrid"
         - time:             "08.2015 - 04.2016"
           location:         "Ho Chi Minh"
           company:          "NKS"
