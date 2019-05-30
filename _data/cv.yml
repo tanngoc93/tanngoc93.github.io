@@ -56,8 +56,7 @@ ngocnt:
             - "Database design"
             - "Front-End Handling"
             - "Handle Scheduled Jobs with Redis / Sidekiq"
-            - "Source code demo here:<br /> <a href="https://github.com/tanngoc93/beta.thedogpaws.com">https://github.com/tanngoc93/beta.thedogpaws.com</a >"
-
+            - "Source code demo here:<br /> <a href="https://github.com/tanngoc93/beta.thedogpaws.com">https://github.com/tanngoc93/beta.thedogpaws.com</a>"
         - time:             "2 months in 2018"
           team:             "Solo"
           title:            "Web Project: Coupon.TheDogPaws.com"
@@ -66,8 +65,7 @@ ngocnt:
             - "Database design"
             - "Front-End Handling"
             - "Handle Scheduled Jobs with Redis / Sidekiq"
-            - "Source code demo here:<br /> <a href="https://github.com/tanngoc93/coupon.thedogpaws.com">https://github.com/tanngoc93/coupon.thedogpaws.com</a >"
-
+            - "Source code demo here:<br /> <a href="https://github.com/tanngoc93/coupon.thedogpaws.com">https://github.com/tanngoc93/coupon.thedogpaws.com</a>"
         - time:             "5 months in 2018"
           team:             "Solo"
           title:            "Web Project: otomoTravel"
