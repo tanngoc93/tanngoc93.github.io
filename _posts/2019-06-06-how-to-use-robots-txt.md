@@ -1,12 +1,12 @@
 ---
 title:             "Cách dùng file robots.txt để tối ưu website của bạn!"
 menutitle:         "Cách dùng file robots.txt để tối ưu website của bạn!"
+date:              2019-06-06 00:00:00 +0700
 category:          Dev Stories
 author:            ngocnt
 layout:            post
 tags:              
 ---
-
 Vừa rồi mình đã làm qua một task xử lý tệp `robots.txt` cho `staging` và `production`, mục tiêu là ẩn hết thông tin của `staging` khỏi công cụ tìm kiếm. Tuy cũng hay làm về mảng SEO marketing nhưng kiến thức của mình khá lộn xộn nên mình viết bài này để chia sẻ và lưu lại cho riêng mình sau này!!!
 
 Theo mình biết thì mục tiêu của file `robots.txt` là để nói với các công cụ tìm kiếm(Google search, Bing search,...) những tập tin nào nên và không nên được lập chỉ mục bởi chúng. Thường thì, nó được sử dụng để chỉ định các tệp không được lập chỉ mục bởi các công cụ tìm kiếm.
