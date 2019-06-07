@@ -12,7 +12,7 @@ Vừa rồi mình đã làm qua một task xử lý tệp `robots.txt` cho `stag
 Theo mình biết thì mục tiêu của file `robots.txt` là để nói với các công cụ tìm kiếm(Google search, Bing search,...) những tập tin nào nên và không nên được lập chỉ mục bởi chúng. Thường thì, nó được sử dụng để chỉ định các tệp không được lập chỉ mục bởi các công cụ tìm kiếm.
 
 #### Lập chỉ mục là gì?
-Lập chỉ mục là quá trình công cụ tìm kiếm truy cập vào website của bạn và tìm tất cả những đường dẫn có thể truy cập được sau đó lưu vào cơ sở dữ liệu của chúng, khi người dùng tìm kiếm những nội dung này sẽ xuấ hiện trên kết quả của họ.
+Lập chỉ mục là quá trình công cụ tìm kiếm truy cập vào website của bạn và thu thập tất cả các trang sau đó lưu vào cơ sở dữ liệu của chúng, khi người dùng tìm kiếm những nội dung này sẽ xuất hiện trên kết quả tìm kiếm của họ.
 
 Để cho phép các công cụ tìm kiếm thu thập dữ liệu và lập chỉ mục toàn bộ nội dung trang web của bạn, bạn có thể thêm các dòng sau vào tệp robots.txt của mình:
 
