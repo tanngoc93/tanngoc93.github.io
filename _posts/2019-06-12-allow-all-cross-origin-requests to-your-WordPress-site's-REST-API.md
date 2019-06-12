@@ -20,9 +20,13 @@ Cross-origin resource sharing (CORS) là một cơ chế cho phép các tài ngu
 Qua giải thích trên chúng ta có thể hiểu được phần nào về CORS, vậy nếu bạn muốn lấy dữ liệu từ Wordpress API REST thì phải làm sao?
 Mình tìm trên mạng có khá nhiều hướng dẫn, trong bài viết này mình sẽ kể lại cách mình bật CORS cho máy chủ Wordpress của mình, và nó đang hoạt động tốt.
 
-Step 1: Truy cập vào máy chủ, sau đó truy cập vào thư mục bạn đã cài đặt Worpdress codebase, tiếp theo là truy cập vào thư mục `wp-content` và khởi tạo thư mục `mu-plugins`. Bạn có thể hình dung qua đường dẫn bên dưới: <br /> `/var/www/[wordpress]/wp-content/mu-plugins/`
+Step 1: Truy cập vào máy chủ, sau đó truy cập vào thư mục bạn đã cài đặt Worpdress codebase, tiếp theo là truy cập vào thư mục ```wp-content``` và khởi tạo thư mục ```mu-plugins```. Bạn có thể hình dung qua đường dẫn bên dưới: <br /> 
 
-Step 2: Bên trong thư mục `mu-plugins` tạo một tệp PHP đặt tên tùy ý, mình đặt tên nó là: `wp-rest-allow-all-cors.php`
+```html
+/var/www/[wordpress]/wp-content/mu-plugins/
+```
+
+Step 2: Bên trong thư mục ```mu-plugins``` tạo một tệp PHP đặt tên tùy ý, mình đặt tên nó là: ```wp-rest-allow-all-cors.php```
 
 Step 3: Sao chép và dán đoạn mã bên dưới vào tệp bạn vừa tạo
 
