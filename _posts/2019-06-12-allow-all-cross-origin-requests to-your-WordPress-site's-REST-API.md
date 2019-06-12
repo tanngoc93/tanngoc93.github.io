@@ -1,6 +1,6 @@
 ---
-title:             "Khắc phục lỗi Cross-Origin Request Blocked trong trong Wordpress API"
-menutitle:         "Khắc phục lỗi Cross-Origin Request Blocked trong trong Wordpress API"
+title:             "Khắc phục lỗi Cross-Origin Request Blocked trong Wordpress REST API"
+menutitle:         "Khắc phục lỗi Cross-Origin Request Blocked trong Wordpress REST API"
 date:              2019-06-12 00:00:00 +0700
 category:          Dev Stories
 author:            ngocnt
