@@ -83,5 +83,7 @@ function wp_rest_allow_all_cors() {
 
 ```
 
+Step 4: Đăng nhập vào Wordpress Admin Dashboard, truy vập vào phần ```Installed Plugins```, tìm xem phần ```Must-Use``` đã xuất hiện chưa. Bạn có thể truy cập vào phần ``` Must-Use``` này để kiểm tra xem có tồn tại plugin tên là ```WP-REST-Allow-All-CORS``` hay chưa.
+
 Bài viết tham khảo từ: [AhmadAwais.com](https://github.com/ahmadawais/WP-REST-Allow-All-CORS).<br />
 Tham khảo Wordpress Must Use Plugins: [Wordpress.org](https://wordpress.org/support/article/must-use-plugins/).
