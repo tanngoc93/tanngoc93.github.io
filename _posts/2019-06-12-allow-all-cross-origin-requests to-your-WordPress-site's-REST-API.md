@@ -8,11 +8,13 @@ layout:            post
 tags:              
 ---
 Trong quá trình làm việc với NextJS và Wordpress REST API mình đã gặp phải thông báo lỗi khi gửi yêu cầu từ phía NextJS:
+
 ```html
 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://some-url-here. (Reason: additional information here).
 ```
 
-Cross-origin resource sharing là gì?
+#### Cross-origin resource sharing là gì?
+
 ```html
 Cross-origin resource sharing (CORS) là một cơ chế cho phép các tài nguyên bị hạn chế trên một trang web được yêu cầu từ một tên miền khác bên ngoài tên miền mà tài nguyên đầu tiên được phục vụ. Một trang web có thể tự do nhúng các hình ảnh, bảng định kiểu, tập lệnh, iframe và video có nguồn gốc chéo. Các yêu cầu "cross-domain" nhất định, đặc biệt là các yêu cầu Ajax, bị cấm theo mặc định bởi chính sách bảo mật cùng nguồn gốc.
 ```
@@ -82,6 +84,7 @@ function wp_rest_allow_all_cors() {
 ```
 
 Bạn cũng có thể cần chỉnh sửa lại một số cài đặt bên trong hàm `wp_rest_allow_all_cors` sao cho phù hợp nhu cầu
+
 ```php
 function wp_rest_allow_all_cors() {
   // Remove the default filter.
