@@ -48,15 +48,15 @@ ngocnt:
     projects:
         - time:             "From March 2019"
           team:             "Solo"
-          title:            "Individual Project: Beta.TheDogPaws.com"
+          title:            "Individual Project: TheDogPaws.com"
           technologies:     "CircleCI, Ruby, Rails, Wordpress-REST-API, ReactJS, NextJS, Phusion Passenger, Nginx, Docker, Docker Compose"
           responsibilities:
             - "Database design"
             - "Front-End Handling"
             - "Handle Scheduled Jobs with Redis / Sidekiq"
             - "Source code demo here:<br/>
-               <a href='https://github.com/tanngoc93/beta.thedogpaws.com' target='_blank'>
-                https://github.com/tanngoc93/beta.thedogpaws.com
+               <a href='https://github.com/tanngoc93/thedogpaws.com' target='_blank'>
+                https://github.com/tanngoc93/thedogpaws.com
                </a>"
 
         - time:             "2 months in 2018"
