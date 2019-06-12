@@ -83,21 +83,5 @@ function wp_rest_allow_all_cors() {
 
 ```
 
-Bạn cũng có thể cần chỉnh sửa lại một số cài đặt bên trong hàm `wp_rest_allow_all_cors` sao cho phù hợp nhu cầu
-
-```php
-function wp_rest_allow_all_cors() {
-  // Remove the default filter.
-  remove_filter( 'rest_pre_serve_request', 'rest_send_cors_headers' );
-  // Add a Custom filter.
-  add_filter( 'rest_pre_serve_request', function( $value ) {
-    header( 'Access-Control-Allow-Origin: *' );
-    header( 'Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE' );
-    header( 'Access-Control-Allow-Credentials: true' );
-    return $value;
-  });
-} // End fucntion wp_rest_allow_all_cors().
-```
-
 Bài viết tham khảo từ: [AhmadAwais.com](https://github.com/ahmadawais/WP-REST-Allow-All-CORS).<br />
 Tham khảo Wordpress Must Use Plugins: [Wordpress.org](https://wordpress.org/support/article/must-use-plugins/).
