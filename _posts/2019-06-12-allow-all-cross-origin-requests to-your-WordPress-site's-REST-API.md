@@ -61,6 +61,7 @@ add_action( 'send_headers', function() {
   }
 } );
 
+// Hook.
 add_action( 'rest_api_init', 'wp_rest_allow_all_cors', 15 );
 
 /**
