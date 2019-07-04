@@ -9,7 +9,9 @@ tags:
 ---
 Vừa rồi mình đã làm qua một nhiệm vụ xử lý tệp `robots.txt` cho `staging` và `production`, mục tiêu là ẩn hết thông tin của `staging` khỏi công cụ tìm kiếm. Tuy cũng hay làm về mảng SEO marketing nhưng kiến thức của mình khá lộn xộn nên mình viết bài này để chia sẻ và lưu lại cho riêng mình sau này!!!
 
-Theo mình biết thì mục tiêu của file `robots.txt` là để nói với các công cụ tìm kiếm(Google search, Bing search,...) những tập tin nào nên và không nên được lập chỉ mục bởi chúng. Thường thì, nó được sử dụng để chỉ định các tệp không được lập chỉ mục bởi các công cụ tìm kiếm.
+Theo mình biết thì mục tiêu của file `robots.txt` là để nói với các công cụ tìm kiếm(Google search, Bing search,...) những tập tin nào nên và không nên được lập chỉ mục bởi chúng. Thường thì nó được sử dụng để chỉ định các tệp không được phép lập chỉ mục bởi các công cụ tìm kiếm, phần còn lại thì tự động sẽ được lập chỉ mục.
+
+Tuy việc cho phép hay không cho phép việc lập chỉ mục trang web của bạn sẽ dựa vào `robots.txt`, nhưng việc các công cụ tìm có tuân thủ `robots.txt` hay không là một vấn đề khác! Tuy vậy bạn vẫn có thể yên tâm các công cụ tìm kiếm như Google hay Bing đều tuân thủ theo `robots.txt`.
 
 #### Lập chỉ mục là gì?
 Lập chỉ mục là quá trình công cụ tìm kiếm truy cập vào website của bạn và thu thập tất cả các trang sau đó lưu vào cơ sở dữ liệu của chúng, khi người dùng tìm kiếm những nội dung này sẽ xuất hiện trên kết quả tìm kiếm của họ.
