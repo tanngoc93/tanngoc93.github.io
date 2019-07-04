@@ -28,7 +28,7 @@ Mặt khác, nếu bạn không muốn cho phép trang web của mình bị lậ
   Disallow: /
 ```
 
-Để có kết quả nâng cao hơn, bạn sẽ cần hiểu các phần trong tệp robot.txt. Dòng "User-agent:" chỉ định các công cụ mà cài đặt sẽ hợp lệ. Bạn có thể sử dụng "*" làm giá trị để tạo quy tắc cho tất cả các bot tìm kiếm hoặc tên của bot bạn muốn tạo quy tắc cụ thể.
+Để có kết quả nâng cao hơn, bạn sẽ cần hiểu các phần trong tệp robots.txt. Dòng "User-agent:" chỉ định các công cụ mà cài đặt sẽ hợp lệ. Bạn có thể sử dụng "*" làm giá trị để tạo quy tắc cho tất cả các bot tìm kiếm hoặc tên của bot bạn muốn tạo quy tắc cụ thể.
 
 Phần "Disallow:" để xác định các tệp và thư mục không được lập chỉ mục bởi các công cụ tìm kiếm. Mỗi thư mục hoặc tệp phải được xác định trên một dòng mới. Ví dụ: các dòng bên dưới sẽ yêu cầu tất cả các công cụ tìm kiếm không lập chỉ mục các thư mục "security" và "security" trong thư mục public_html của bạn:
 
