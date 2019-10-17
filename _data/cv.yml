@@ -8,11 +8,23 @@ ngocnt:
         - "RESTful API, Payment Gateway & Social Network Integration"
         - "SEO(Search Engine Optimization) expert with 3+ years experience"
     education:
+        - time:             "2016 - 2018"
+          location:         "FPT University"
+          description:      "Computer programming"
         - time:             "2014 - 2016"
           location:         "FPT Polytechnic college"
           description:      "Computer programming - Mobile devices"
     employment:
-        - time:             "1.2018 - present"
+        - time:             "7.2019 - present"
+          location:         "Ho Chi Minh"
+          company:          "Symphony Creative Solutions Pte. Ltd."
+          position:         "Full Stack developer"
+          responsibilities:
+            - "ReactJS / Redux"
+            - "Write functional, Rest-API, unit test for application quality assurance"
+            - "Google API, Google Cloud Functions / Dialogflow"
+            - "Use Agile/Scrum methodology"
+        - time:             "11.2018 - 6.2019"
           location:         "Ho Chi Minh"
           company:          "EdgeWorks Software Ltd"
           position:         "Full Stack developer"
@@ -49,28 +61,12 @@ ngocnt:
         - time:             "From March 2019"
           team:             "Solo"
           title:            "Individual Project: TheDogPaws.com"
-          technologies:     "CircleCI, Ruby, Rails, Wordpress-REST-API, ReactJS, NextJS, Phusion Passenger, Nginx, Docker, Docker Compose"
+          technologies:     "CircleCI, Ruby, Rails, Wordpress-REST-API, ReactJS, NextJS, Phusion Passenger, Nginx, Docker / Docker Swarm, Docker Compose"
           responsibilities:
             - "Database design"
             - "Front-End Handling"
             - "Handle Scheduled Jobs with Redis / Sidekiq"
-            - "Source code demo here:<br/>
-               <a href='https://github.com/tanngoc93/thedogpaws.com' target='_blank'>
-                https://github.com/tanngoc93/thedogpaws.com
-               </a>"
-
-        - time:             "2 months in 2018"
-          team:             "Solo"
-          title:            "Individual Project: Coupon.TheDogPaws.com"
-          technologies:     "CircleCI, Ruby, Rails, JavaScript, HTML5, CSS, Phusion Passenger, Nginx, Docker, Docker Compose"
-          responsibilities:
-            - "Database design"
-            - "Front-End Handling"
-            - "Handle Scheduled Jobs with Redis / Sidekiq"
-            - "Source code demo here:<br/>
-               <a href='https://github.com/tanngoc93/coupon.thedogpaws.com' target='_blank'>
-                https://github.com/tanngoc93/coupon.thedogpaws.com
-               </a>"
+            - "Microservices / Spring Boot / Docker / Docker Swarm"
 
         - time:             "5 months in 2018"
           team:             "Solo"
