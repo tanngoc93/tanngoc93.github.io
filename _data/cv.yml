@@ -10,9 +10,6 @@ ngocnt:
       - "AWS / Microsoft Azure / Google Cloud Platform"
 
   education:
-      - time:             "2016 - 2018"
-        location:         "FPT University"
-        description:      "Computer programming"
       - time:             "2014 - 2016"
         location:         "FPT Polytechnic College"
         description:      "Mobile app development"
