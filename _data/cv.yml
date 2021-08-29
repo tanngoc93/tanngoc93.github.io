@@ -2,12 +2,12 @@ ngocnt:
   profile: "Experienced Ruby on Rails developer who is enthusiastic about writing clean, and high sense of responsibility. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize the way my tasks."
   skills:
       - "Ruby, Ruby on Rails"
-      - "Docker / Docker-Compose / Kubernetes(EKS, GKE and Rancher)"
-      - "JavaScript / NodeJS / ReactJS / Redux / Redux-Saga / NextJS"
+      - "Docker / Kubernetes(EKS, GKE and Rancher)"
+      - "JS / NodeJS / React / Redux / ReduxSaga / NextJS"
       - "MySQL / PostgreSQL / Elasticsearch / Solr / Redis / Sidekiq"
-      - "Git-Flow / CI / CD / Microservices with Kubernetes / EFK stack"
+      - "Git-Flow / CI/CD / Microservices with K8s / EFK stack"
       - "SEO(Search Engine Optimization) expert with 4+ years experience"
-      - "AWS / Microsoft Azure / Google Cloud Platform"
+      - "AWS / Azure / GCP"
 
   education:
       - time:             "2014 - 2016"
@@ -66,10 +66,10 @@ ngocnt:
           - "Integrated Google Play Services and Google Maps API / Parse platform"
 
   projects:
-      - time:             "From March 2019"
-        team:             "Solo"
+      - time:             "From 2019"
+        team:             ""
         title:            "Individual Project: www.TooCoolCats.com"
-        technologies:     "CircleCI, Ruby on Rails, Redis, Sidekiq, Wordpress-REST-API, ReactJS / NextJS, Phusion-Passenger, Docker / Docker Swarm, Traefik"
+        technologies:     "CircleCI, Ruby on Rails, Redis, Sidekiq, Wordpress-REST-API, React / NextJS, Phusion-Passenger, Docker / Docker Swarm, Traefik"
         responsibilities:
           - "Database design"
           - "Front-end handling"
@@ -79,15 +79,19 @@ ngocnt:
           - "Frontend source: https://github.com/tanngoc93/CouponBackend"
           - "Swarm source: https://github.com/tanngoc93/CouponSwarm"
           - "Deploy applications entirely on Docker Swarm."
-          - "Blog service: https://toocoolcats.com"
-          - "Coupon frontend service: https://toocoolcats.com/coupons"
-          - "Coupon backend service: https://couponapi.toocoolcats.com/admin"
-          - "Traefik service: https://traefik.toocoolcats.com/"
+          - "Blog Service:"
+          - "https://toocoolcats.com"
+          - "Coupon Frontend Service:"
+          - "https://toocoolcats.com/coupons"
+          - "Coupon Backend Service:"
+          - "https://couponapi.toocoolcats.com/admin"
+          - "Traefik Service:"
+          - "https://traefik.toocoolcats.com"
 
       - time:             "6 months in 2018"
         team:             "Solo"
         title:            "Web Project: otomoTravel"
-        technologies:     "Ruby on Rails, JavaScript, ReactJS, HTML5, CSS"
+        technologies:     "Ruby on Rails, JS, ReactJ, HTML5, CSS"
         responsibilities:
           - "Front-end Handling"
           - "Write functional, unit, and acceptance tests"
@@ -106,7 +110,7 @@ ngocnt:
       - time:             "6 months in 2017"
         team:             "Team of 2"
         title:            "Web Project: AnomicChat"
-        technologies:     "Ruby on Rails, JavaScript, HTML5, CSS, Docker, Docker Compose"
+        technologies:     "Ruby on Rails, JS, HTML5, CSS, Docker, Docker Compose"
         responsibilities:
           - "Design part of the database"
           - "Stripe payment gateway integration"
