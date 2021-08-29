@@ -68,7 +68,7 @@ ngocnt:
       - time:             "From 2019"
         team:             ""
         title:            "Individual Project: www.TooCoolCats.com"
-        technologies:     "CircleCI, Ruby on Rails, Redis, Sidekiq, Wordpress-REST-API, React / NextJS, Phusion-Passenger, Docker / Docker Swarm, Traefik"
+        technologies:     "CircleCI, Ruby on Rails, Redis, Sidekiq, Wordpress-REST-API, React / NextJS, Phusion-Passenger, Docker / Docker Swarm, Traefik, Varnish caching"
         responsibilities:
           - "Database design"
           - "Front-end handling"
