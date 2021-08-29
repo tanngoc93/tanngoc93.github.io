@@ -1,13 +1,12 @@
 ngocnt:
   profile: "Experienced Ruby on Rails developer who is enthusiastic about writing clean, and high sense of responsibility. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize the way my tasks."
   skills:
-      - "Ruby, Ruby on Rails"
+      - "Ruby & Ruby on Rails"
       - "Docker / Kubernetes(EKS, GKE and Rancher)"
-      - "JS / NodeJS / React / Redux / ReduxSaga / NextJS"
+      - "NodeJS / React / Redux / ReduxSaga / NextJS"
       - "MySQL / PostgreSQL / Elasticsearch / Solr / Redis / Sidekiq"
-      - "Git-Flow / CI/CD / Microservices with K8s / EFK stack"
-      - "SEO(Search Engine Optimization) expert with 4+ years experience"
-      - "AWS / Azure / GCP"
+      - "Git-Flow / CI/CD / Microservices with K8s / EFK stack"      
+      - "AWS / Azure / Google Cloud Platform"
 
   education:
       - time:             "2014 - 2016"
