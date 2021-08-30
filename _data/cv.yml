@@ -86,7 +86,7 @@ ngocnt:
           - "FRONT-END SERVICE:"
           - "https://toocoolcats.com/coupons"
           - "BACKEND SERVICE:"
-          - "https://couponapi.toocoolcats.com/admin"
+          - "https://api.toocoolcats.com/admin"
           - "TRAEFIK SERVICE:"
           - "https://traefik.toocoolcats.com"
 
