@@ -14,15 +14,15 @@ ngocnt:
         description:      "Mobile app development"
 
   employment:
-      - time:             "7.2019 - 9.2021"
+      - time:             "7.2019 - 12.2021"
         location:         "Ho Chi Minh"
         company:          "Symphony Creative Solutions Pte. Ltd"
-        position:         "Ruby on Rails developer"
+        position:         "Full-Stack developer"
         responsibilities:
-          - "Agile/Scrum Development lifecycle"
+          - "Agile scrum methodology"
           - "Write functional, Rest-API, unit test for application quality assurance for Rails applications"
-          - "Building chatbot app with Dialogflow and GCP tools like Cloud Functions, Cloud Scheduler, Cloud SQL, Cloud SQL, etc"
-          - "Working with other teams to built a micro-service application using Traefik, Docker, K8S, etc and deploy to GKE"
+          - "Built chatbot app with Dialogflow and GCP tools like Cloud Functions, Cloud Scheduler, Cloud SQL, Cloud SQL, etc"
+          - "Working with other teams to built a microservices application using Traefik, Docker, K8S, etc and deploy to GKE"
           - "Experienced managing/training a small team with 2-3 members"
           - "AWS / GCP / Dialogflow"
 
@@ -65,31 +65,6 @@ ngocnt:
           - "Integrated Google Play Services and Google Maps API / Parse platform"
 
   projects:
-      - time:             "From 2019"
-        team:             ""
-        title:            "Individual Project: www.TooCoolCats.com"
-        technologies:     "CircleCI, Ruby on Rails, Redis, Sidekiq, Wordpress-REST-API, React / NextJS, Phusion-Passenger, Docker / Docker Swarm, Traefik, Varnish caching"
-        responsibilities:
-          - "Database design"
-          - "Front-end handling"
-          - "Write functional, unit, and acceptance tests"
-          - "Handle Scheduled Jobs with Ruby / Redis / Sidekiq"
-          - "BACKEND:"
-          - "https://github.com/tanngoc93/CouponBackend"
-          - "FRONT-END:"
-          - "https://github.com/tanngoc93/CouponFrontend"
-          - "DOCKER SWARM:"
-          - "https://github.com/tanngoc93/CouponSwarm"
-          - "***Deploy applications entirely on Docker Swarm***"
-          - "BLOG SERVICE:"
-          - "https://toocoolcats.com"
-          - "FRONT-END SERVICE:"
-          - "https://toocoolcats.com/coupons"
-          - "BACKEND SERVICE:"
-          - "https://api.toocoolcats.com/admin"
-          - "TRAEFIK SERVICE:"
-          - "https://traefik.toocoolcats.com"
-
       - time:             "6 months in 2018"
         team:             "Solo"
         title:            "Web Project: otomoTravel"
