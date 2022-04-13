@@ -73,24 +73,35 @@ ngocnt:
           - "Integrated Google Play Services and Google Maps API / Parse platform"
 
   projects:
-      - time:             "6 months in 2018"
-        team:             "Solo"
-        title:            "Web Project: otomoTravel"
-        technologies:     "Ruby on Rails, JS, ReactJ, HTML5, CSS"
+      - time:             "18 months in [2019 - 2022]"
+        team:             "Team of 6"
+        title:            "Web Project: Snipe-One"
+        technologies:     "Ruby on Rails, ReactJS, Redis, Sidekiq, Docker, Docker Compose"
         responsibilities:
-          - "Front-end Handling"
+          - "Front-end implementation"
+          - "Write functional, unit, and acceptance tests"
+          - "Implementation of CI/CD, server configuration"
+          - "Dialogflow Chatbot integration"
+          - "Link : <a href='https://snipe-one.scs71.com/' target='_blank'>Visit</a>"
+
+      - time:             "8 months in 2018"
+        team:             "Team of 3"
+        title:            "Web Project: otomoTravel"
+        technologies:     "Ruby on Rails, ReactJS, Redis, Sidekiq, Docker, Docker Compose"
+        responsibilities:
+          - "Front-end implementation"
           - "Write functional, unit, and acceptance tests"
           - "Implementation of CI/CD, server configuration"
           - "Stripe Payment Gateway & Social Network integration"
+          - "Link : <a href='https://otomo-travel.com/' target='_blank'>Visit</a>"
 
       - time:             "6 months in [2017 - 2018]"
         team:             "Team of 2"
-        title:            "RESTful APIs for Pipster App"
+        title:            "Rest API for getPipster App"
         technologies:     "Ruby on Rails, Redis, Sidekiq, Docker, Docker Compose"
         responsibilities:
-          - "Link: www.getpipster.com"
           - "Write functional, unit, and acceptance tests"
-          - "Social Network Integration, etc"
+          - "Social network integration, etc"
 
       - time:             "6 months in 2017"
         team:             "Team of 2"
