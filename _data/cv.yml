@@ -14,7 +14,7 @@ ngocnt:
         description:      "Mobile App Development"
 
   employment:
-      - time:             "12.2022 - 5.2022"
+      - time:             "12.2021"
         location:         "Ho Chi Minh"
         company:          "ADVN Co.,Ltd"
         position:         "Ruby on Rails developer"
@@ -22,6 +22,7 @@ ngocnt:
           - "Write functional, Rest-API, unit test for application quality assurance for Rails applications"
           - "Config Gitlab CI/CD on staging/production environment"
           - "Support/training a small team with 2 members"
+
       - time:             "7.2019 - 12.2021"
         location:         "Ho Chi Minh"
         company:          "Symphony Creative Solutions Pte. Ltd"
