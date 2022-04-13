@@ -25,11 +25,11 @@ default:                                                      # Fallback if noth
   reddit:                                                     # OPTIONAL: used in the about page
 ngocnt:
   initial:      ngocnt
-  name:         Nguyen Tan Ngoc
+  name:         Ngoc Nguyen Tan
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/ngocnt.jpg  
   bio:          
-  location:     Saigon
+  location:     Sai Gon
   email:        
   github:       tanngoc93
   linkedin:     ngoc-nguyen-tan-621962167

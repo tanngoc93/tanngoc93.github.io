@@ -2,25 +2,33 @@ ngocnt:
   profile: "Experienced Ruby on Rails developer who is enthusiastic about writing clean, and high sense of responsibility. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize the way my tasks."
   skills:
       - "Ruby & Ruby on Rails"
-      - "Docker / Kubernetes(EKS, GKE and Rancher)"
+      - "Docker / Docker Compose / Kubernetes(GKE and Rancher)"
       - "NodeJS / React / Redux / ReduxSaga / NextJS"
       - "MySQL / PostgreSQL / Elasticsearch / Solr / Redis / Sidekiq"
       - "Git-Flow / CI/CD / Microservices with K8s / EFK stack"      
-      - "AWS / Azure / Google Cloud Platform"
+      - "Amazon Web Services(AWS) / Google Cloud Platform(GCP)"
 
   education:
       - time:             "2014 - 2016"
         location:         "FPT Polytechnic College"
-        description:      "Mobile app development"
+        description:      "Mobile App Development"
 
   employment:
+      - time:             "12.2022 - 5.2022"
+        location:         "Ho Chi Minh"
+        company:          "ADVN Co.,Ltd"
+        position:         "Ruby on Rails developer"
+        responsibilities:
+          - "Write functional, Rest-API, unit test for application quality assurance for Rails applications"
+          - "Config Gitlab CI/CD on staging/production environment"
+          - "Support/training a small team with 2 members"
       - time:             "7.2019 - 12.2021"
         location:         "Ho Chi Minh"
         company:          "Symphony Creative Solutions Pte. Ltd"
         position:         "Full-Stack developer"
         responsibilities:
           - "Agile scrum methodology"
-          - "Write functional, Rest-API, unit test for application quality assurance for Rails applications"
+          - "Write functional, Rest-API, unit test for application quality assurance for Rails and React JS applications"
           - "Built chatbot app with Dialogflow and GCP tools like Cloud Functions, Cloud Scheduler, Cloud SQL, Cloud SQL, etc"
           - "Working with other teams to built a microservices application using Traefik, Docker, K8S, etc and deploy to GKE"
           - "Experienced managing/training a small team with 2-3 members"
@@ -32,19 +40,19 @@ ngocnt:
         position:         "Ruby on Rails developer"
         responsibilities:
           - "Agile/Scrum Development lifecycle"
-          - "Mailchimp integration"
+          - "Mailchimp/GetResponse/Klaviyo integration"
           - "Write functional, Rest-API, unit, and acceptance tests for application quality assurance"
           - "Experienced working with Docker/AWS"
 
       - time:             "2017 - 2018"
         location:         "Ho Chi Minh"
-        company:          "MIC Labs Co.,Ltd"
+        company:          "MiC Labs Co.,Ltd"
         position:         "Ruby on Rails developer"
         responsibilities:
           - "Write functional, Rest-API, unit, and acceptance tests for application quality assurance"
           - "Complete database migrations with Ruby on Rails and ActiveRecord"
-          - "Agile/Scrum Development lifecycle, version control tool Git/Gitlab. Apply CI/CD services to test, build, and deploy our projects"
-          - "Integrate Payment Gateway(Stripe/Paypal), and email functionality in applications by using Stripe/Paypal/Sendgrid"
+          - "Agile/Scrum development lifecycle, version control tool Git/Gitlab. Apply CI/CD services to test, build, and deploy our projects"
+          - "Integrate payment gateway(Stripe/Paypal), and email functionality in applications by using Stripe/Paypal/Sendgrid"
           - "Working with React/Redux, Shopify API, Social API, etc"
 
       - time:             "2016 - 2017"
