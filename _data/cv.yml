@@ -88,6 +88,21 @@ ngocnt:
           - "Integrated Google Play Services and Google Maps API / Parse platform"
 
   projects:
+      - time:             "Ongoing since 2023"
+        team:             "Solo developer (self-built SaaS project)"
+        title:            "FeedX – AI-Powered Social Media Automation for eCommerce Sellers"
+        technologies:     "Ruby on Rails, Sidekiq, GoodJob, Redis, PostgreSQL, Vite, StimulusJS, Docker, Karafka (Kafka), Traefik, Docker Swarm, OpenAI (fine-tuned models)"
+        responsibilities:
+          - "Designed and developed FeedX – a SaaS platform helping Shopify and Wix sellers automate their daily social media operations"
+          - "Implemented AI-powered auto-posting, auto-reply to comments, and intelligent campaign scheduling across Facebook, Instagram, Pinterest, Threads, TikTok, and YouTube"
+          - "Built a fully integrated content engine using fine-tuned OpenAI models to generate branded captions, post ideas, and promotional messages tailored to customer products"
+          - "Developed product-to-video conversion for Reels/Shorts, supporting auto-generation of marketing videos using synced product data"
+          - "Integrated Shopify product sync (Wix in progress), with Instagram Shopping and Pinterest board targeting features"
+          - "Created real-time analytics dashboard to track success rate, engagement, and post performance"
+          - "Managed background tasks using Sidekiq and GoodJob; leveraged Kafka via Karafka for event-driven microservices"
+          - "Deployed entire infrastructure using Docker Swarm and Traefik for scalable container orchestration"
+          - "Integrated Stripe Billing and Shopify Billing API to support flexible multi-tenant subscription models"
+
       - time:             "18 months in [2019 - 2022]"
         team:             "Team of 6"
         title:            "Web Project: Snipe-One"
