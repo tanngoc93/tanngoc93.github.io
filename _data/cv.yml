@@ -14,7 +14,21 @@ ngocnt:
         description:      "Mobile App Development"
 
   employment:
-      - time:             "12.2021"
+      - time:             "6.2021 - Now"
+        location:         "Ho Chi Minh"
+        company:          "Oivan Vietnam"
+        position:         "Ruby on Rails developer"
+        responsibilities:
+          - "Write functional, REST-API, and unit tests to ensure application quality assurance for Ruby on Rails applications"
+          - "Configure GitLab CI/CD pipelines for staging and production environments"
+          - "Develop and maintain microservices-based architecture for scalable and modular application structure"
+          - "Integrate and manage Apache Kafka (using Karafka gem) for real-time data streaming and inter-service communication"
+          - "Utilize Sidekiq for background job processing and performance optimization in asynchronous workflows"
+          - "Experience working with Jenkins for legacy CI/CD pipelines and automation tasks"
+          - "Deploy and manage applications on Kubernetes (K8s) for container orchestration and high availability"
+          - "Contribute to a large-scale software project for a Saudi Arabia-based client, focusing on scalable, secure, and region-compliant infrastructure"
+
+      - time:             "12.2021 - 6.2021"
         location:         "Ho Chi Minh"
         company:          "ADVN Co.,Ltd"
         position:         "Ruby on Rails developer"
