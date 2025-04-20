@@ -102,6 +102,7 @@ ngocnt:
           - "Managed background tasks using Sidekiq and GoodJob; leveraged Kafka via Karafka for event-driven microservices"
           - "Deployed entire infrastructure using Docker Swarm and Traefik for scalable container orchestration"
           - "Integrated Stripe Billing and Shopify Billing API to support flexible multi-tenant subscription models"
+          - "<a href='https://feedx.app/' target='_blank'>FeedX App</a>"
 
       - time:             "18 months in [2019 - 2022]"
         team:             "Team of 6"
